@@ -8,7 +8,7 @@ The aim of this project is to :
 - Use various types of recommendation engines to recommmend   articles to different userrs .
 
 
-*Project Dataset:*
+*Project Datasets:*
 
 The project will involve the following datasets:
 
@@ -16,7 +16,7 @@ The project will involve the following datasets:
 - articles_community     - This set contains details about the articles.
 
 
-*File Descriptions:*
+*Project File Descriptions:*
 
 - Recommendations_with_IBM.ipynb - Jupyter notebook containing main implementation and analysis.
 
