@@ -18,7 +18,7 @@ The project will involve the following datasets:
 
 *Project File Descriptions:*
 
-- Recommendations_with_IBM.ipynb - Jupyter notebook containing main implementation and analysis.
+- Recommendations_with_IBM.ipynb - Jupyter notebook containing main implementation process.
 
  - Recommendations_with_IBM.html -  A copy of Recommendations_with_IBM.ipynb in html format.
 
